@@ -20,3 +20,4 @@ The User Search App should be able to:
 + Search for users by name (**Arnoldo**)
 + Search for users by city(**Zelda**)
 + Sort users by city (**Praise**)
++ Work on UI (**Damini**)
