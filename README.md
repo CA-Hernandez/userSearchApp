@@ -17,7 +17,7 @@ In this lab, you are going to create a search application with React that utiliz
 The User Search App should be able to:
 + Display user information (at least name, email, phone, and city) (**Chris**)
 + Remove entries from list (do not try to delete from databse, data will refresh on pull)(**Alice**)
-+ Search for users by name (**Arnoldo**)
++ Search for users by name (**Arnoldo/Umar**)
 + Search for users by city(**Zelda**)
 + Sort users by city (**Praise**)
 + Work on UI (**Damini**)
